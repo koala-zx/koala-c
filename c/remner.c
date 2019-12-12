@@ -3,6 +3,6 @@
 
 void main(){
 
-printf("»¶Ó­À´µ½koala£¡");
+printf("welcome koala !");
 
 }
